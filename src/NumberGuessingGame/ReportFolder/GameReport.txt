@@ -1,0 +1,5 @@
+Game Report:
+
+Congratulations on winning the Number Guessing Game.
+Number which you guessed: 
+2
