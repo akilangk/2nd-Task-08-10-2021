@@ -4,7 +4,6 @@ class DataProvider {
     private int boundValueOfRandomNumber;
     private int randomNumber;
     private int guessedNumber;
-    private String reportFolderFilePath;
     private String gameReportFilePath;
     private String reportFormatFilePath;
 
